@@ -1,4 +1,4 @@
  Hi there, Shailesh.S
  
-- 🔭 I’m currently learning Python, SQL, PowerBI, Execel
+- 🔭 I’m AI research Intern
   
